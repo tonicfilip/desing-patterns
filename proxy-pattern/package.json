@@ -1,0 +1,22 @@
+{
+  "name": "ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.995.0",
+    "docxtemplater": "^3.22.7",
+    "express": "^4.17.1",
+    "jszip": "^3.7.1",
+    "nodemon": "^2.0.13",
+    "pizzip": "^3.1.1",
+    "uuid": "^8.3.2"
+  }
+}
